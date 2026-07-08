@@ -76,14 +76,14 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 ## 📈 GitHub Stats & Analytics
 
 ### 📊 My Activity Overview
-
-![Sameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight)
+[![Sameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight)](https://github.com/sksameed)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)
-## 🔥 GitHub Streak
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)](https://github.com/sksameed?tab=repositories)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sksameed&theme=tokyonight)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=sksameed&theme=tokyonight)](https://github.com/sksameed)
+
 ### 📖 How to Read These Stats:
 
 **GitHub Stats Card shows:**
@@ -97,6 +97,11 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 - 🎯 Most used programming languages
 - 📈 Percentage breakdown by usage
 - 🚀 Languages you code in most
+
+**GitHub Streak shows:**
+- 🔥 Your consecutive contribution streak
+- 📅 Best and current streaks
+- 🎯 Commitment to consistent coding
 
 ### ⚡ How Stats Update:
 
@@ -119,7 +124,7 @@ These stats pull **live data** from your GitHub profile and update automatically
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 I'm always interested in discussing:
 - Web development trends and best practices
@@ -135,17 +140,22 @@ Feel free to:
 
 ---
 
-## 📝 Latest Projects
+## 📝 My Repositories
 
-Explore my repositories to see my latest work and ongoing projects. Each repository includes documentation and clear setup instructions.
+Explore my repositories to see my latest work and ongoing projects:
+- 🔗 [View All Repositories](https://github.com/sksameed?tab=repositories)
+- 🔗 [View Contributions](https://github.com/sksameed?tab=contributions)
+- 🔗 [View GitHub Profile](https://github.com/sksameed)
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksameed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sksameed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sksameed999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://sksameed.dev)
 
 ---
 
@@ -153,4 +163,4 @@ Explore my repositories to see my latest work and ongoing projects. Each reposit
 
 ---
 
-**Last updated**: July 2026 | **Status**: Always learning 🚀
+**Last updated**: July 2026 | **Status**: Always learning 🚀 | **GitHub**: [@sksameed](https://github.com/sksameed)
