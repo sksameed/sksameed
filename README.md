@@ -1,69 +1,97 @@
-# Hey there! 👋 I'm Sameed
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to open-source projects. This is my digital workspace where I showcase my work, collaborate with others, and continuously learn new technologies.
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Sameed&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=667EEA&center=true&vCenter=true&width=1000&lines=Building+scalable+web+applications;Crafting+clean%2C+maintainable+code;Contributing+to+open+source+projects;Exploring+modern+technologies)](https://github.com/sksameed)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
 I'm a full-stack developer with a passion for clean code, scalable architecture, and solving complex problems. I believe in writing code that's not just functional but also maintainable and well-documented. When I'm not coding, I'm exploring new technologies, reading about best practices, and contributing to the developer community.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💻 What I Do
 
-- **Full-Stack Development**: Building end-to-end applications with modern web technologies
-- **Open Source**: Contributing to projects that make a difference in the development community
-- **Problem Solving**: Tackling complex challenges with creative and efficient solutions
-- **Learning & Growth**: Continuously expanding my skillset and staying updated with industry trends
+| | |
+|---|---|
+| **Full-Stack Development** | Building end-to-end applications with modern web technologies |
+| **Open Source** | Contributing to projects that make a difference in the developer community |
+| **Problem Solving** | Tackling complex challenges with creative and efficient solutions |
+| **Learning & Growth** | Continuously expanding my skillset and staying updated with industry trends |
+
+</div>
 
 ---
 
-## 🛠️ My Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,sql)](https://github.com/sksameed)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html5,css3)](https://github.com/sksameed)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb)](https://github.com/sksameed)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Tools & DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions)](https://github.com/sksameed)
+
+</div>
 
 ---
 
-## 📊 My Skills & Expertise
+<h2 align="center">📊 My Skills & Expertise</h2>
 
-### Development
-![Full Stack](https://img.shields.io/badge/Full_Stack-Expert-green?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API_Design-Advanced-blue?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database_Design-Advanced-blue?style=for-the-badge)
+<div align="center">
 
-### Soft Skills
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Expert-green?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/Collaboration-Advanced-blue?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-Advanced-blue?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Expert-667eea?style=for-the-badge&labelColor=1a1a2e)
+![API Design](https://img.shields.io/badge/API_Design-Advanced-764ba2?style=for-the-badge&labelColor=1a1a2e)
+![Database Design](https://img.shields.io/badge/Database_Design-Advanced-667eea?style=for-the-badge&labelColor=1a1a2e)
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Expert-764ba2?style=for-the-badge&labelColor=1a1a2e)
+![Collaboration](https://img.shields.io/badge/Collaboration-Advanced-667eea?style=for-the-badge&labelColor=1a1a2e)
+![Communication](https://img.shields.io/badge/Communication-Advanced-764ba2?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
 
 ---
 
-## 🌱 Currently
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+
+### Activity Overview
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=667eea&icon_color=764ba2)](https://github.com/sksameed)
+
+### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=667eea)](https://github.com/sksameed?tab=repositories)
+
+### Contribution Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sksameed&bg_color=1a1a2e&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/sksameed)
+
+### Contribution Snake
+![snake gif](https://github.com/sksameed/sksameed/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<h2 align="center">🌱 Currently</h2>
+
+<div align="center">
 
 - 🔭 Working on exciting projects that push the boundaries of web development
 - 🌱 Learning advanced architectural patterns and microservices
@@ -71,20 +99,13 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 - 💬 Ask me about web development, software architecture, and best practices
 - 📫 Feel free to reach out — I love connecting with fellow developers!
 
+</div>
+
 ---
 
-## 📈 GitHub Stats & Analytics
+<h2 align="center">📖 Understanding GitHub Stats</h2>
 
-### 📊 My Activity Overview
-[![Sameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight)](https://github.com/sksameed)
-
-### 🏆 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)](https://github.com/sksameed?tab=repositories)
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=sksameed&theme=tokyonight)](https://github.com/sksameed)
-
-### 📖 How to Read These Stats:
+<div align="center">
 
 **GitHub Stats Card shows:**
 - 📌 Total repositories
@@ -98,33 +119,45 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 - 📈 Percentage breakdown by usage
 - 🚀 Languages you code in most
 
-**GitHub Streak shows:**
-- 🔥 Your consecutive contribution streak
-- 📅 Best and current streaks
+**Activity Graph shows:**
+- 📅 Contribution history across weeks and months
 - 🎯 Commitment to consistent coding
-
-### ⚡ How Stats Update:
-
-These stats pull **live data** from your GitHub profile and update automatically:
-- **Make commits** → Stats refresh based on your activity
-- **Create repositories** → New repos appear in stats
-- **Earn stars** → Reflected in your total star count
-- **Contribute consistently** → Activity graph shows your consistency
+- 📈 Long-term productivity trends
 
 💡 **Tip:** The more you code and push to GitHub, the better your stats look! This is a great way to showcase your activity to potential employers and collaborators.
 
+</div>
+
 ---
 
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
 
 - ⭐ Active open-source contributor
 - 💡 Problem solver and tech enthusiast
 - 🚀 Always shipping code
 - 📚 Continuous learner
 
+</div>
+
 ---
 
-## 🤝 Let's Connect & Collaborate!
+<h2 align="center">📝 My Repositories</h2>
+
+<div align="center">
+
+Explore my repositories to see my latest work and ongoing projects:
+
+[View All Repositories](https://github.com/sksameed?tab=repositories) • [View Contributions](https://github.com/sksameed?tab=contributions) • [View GitHub Profile](https://github.com/sksameed)
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<div align="center">
 
 I'm always interested in discussing:
 - Web development trends and best practices
@@ -138,29 +171,32 @@ Feel free to:
 - 💬 Open issues for feedback or suggestions
 - 📧 Reach out via GitHub for collaboration opportunities
 
----
-
-## 📝 My Repositories
-
-Explore my repositories to see my latest work and ongoing projects:
-- 🔗 [View All Repositories](https://github.com/sksameed?tab=repositories)
-- 🔗 [View Contributions](https://github.com/sksameed?tab=contributions)
-- 🔗 [View GitHub Profile](https://github.com/sksameed)
+</div>
 
 ---
 
-### 🔗 Connect With Me
+<h2 align="center">🔗 Connect With Me</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksameed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sksameed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sksameed999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://sksameed.dev)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sksameed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/sameed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e)](https://twitter.com/sksameed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sksameed999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=web&logoColor=white&labelColor=1a1a2e)](https://sksameed.dev)
+
+</div>
 
 ---
 
-*"Code is poetry written in a language computers understand."*
+<div align="center">
 
----
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Code%20is%20Poetry&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
-**Last updated**: July 2026 | **Status**: Always learning 🚀 | **GitHub**: [@sksameed](https://github.com/sksameed)
+</div>
+
+<div align="center">
+
+**Last updated**: July 2026 | **Status**: Always learning 🚀
+
+</div>
