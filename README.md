@@ -81,7 +81,9 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)
+## 🔥 GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sksameed&theme=tokyonight)](https://git.io/streak-stats)
 ### 📖 How to Read These Stats:
 
 **GitHub Stats Card shows:**
