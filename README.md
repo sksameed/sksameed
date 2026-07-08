@@ -69,14 +69,13 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
+### Activity Overview
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight&bg_color=1a1a2e&border_color=667eea&icon_color=764ba2)](https://github.com/sksameed)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=tokyonight"/>
-</p>
+### Most Used Languages
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=tokyonight&bg_color=1a1a2e&border_color=667eea)](https://github.com/sksameed?tab=repositories)
 
 ### Contribution Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sksameed&bg_color=1a1a2e&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/sksameed)
