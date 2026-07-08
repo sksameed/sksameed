@@ -73,11 +73,37 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Analytics
 
+### 📊 My Activity Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=radical)
 
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)
+
+### 📖 How to Read These Stats:
+
+**GitHub Stats Card shows:**
+- 📌 Total repositories
+- ⭐ Total stars received
+- 📊 Contributions over time
+- 👥 Followers & following
+- 🔗 Public gists
+
+**Top Languages Card shows:**
+- 🎯 Most used programming languages
+- 📈 Percentage breakdown by usage
+- 🚀 Languages you code in most
+
+### ⚡ How Stats Update:
+
+These stats pull **live data** from your GitHub profile and update automatically:
+- **Make commits** → Stats refresh based on your activity
+- **Create repositories** → New repos appear in stats
+- **Earn stars** → Reflected in your total star count
+- **Contribute consistently** → Activity graph shows your consistency
+
+💡 **Tip:** The more you code and push to GitHub, the better your stats look! This is a great way to showcase your activity to potential employers and collaborators.
 
 ---
 
