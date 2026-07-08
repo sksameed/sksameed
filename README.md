@@ -76,7 +76,8 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 ## 📈 GitHub Stats & Analytics
 
 ### 📊 My Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=radical)
+
+![Sameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksameed&show_icons=true&theme=tokyonight)
 
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksameed&layout=compact&theme=radical)
