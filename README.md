@@ -83,8 +83,10 @@ I'm a full-stack developer with a passion for clean code, scalable architecture,
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sksameed&bg_color=1a1a2e&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/sksameed)
 
 ### Contribution Snake
-![snake gif](https://github.com/sksameed/sksameed/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sksameed/sksameed/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 </div>
 
 ---
